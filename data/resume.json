@@ -1,0 +1,164 @@
+{
+  "tr": {
+    "basics": {
+      "name": "Ömer Şerif Yıldız",
+      "label": "Yazılım Geliştirme Uzmanı",
+      "email": "omerserifyildiz@outlook.com.tr",
+      "summary": "Sektörde edindiğim pratik saha deneyimini, güncel yazılım mimarileriyle birleştiren bir Full Stack Yazılım Uzmanıyım. ASP.NET Core MVC, Dapper ve MSSQL teknolojileriyle performans, güvenilirlik ve sürdürülebilirlik odaklı backend çözümleri geliştiriyor; React ile kullanıcı deneyimi yüksek, mobil uyumlu ve ölçeklenebilir arayüzler tasarlıyorum. ERP entegrasyonları, özel işlevsel modüller ve kurumsal raporlama sistemleri başta olmak üzere, iş ihtiyaçlarına doğrudan değer üreten uçtan uca yazılım çözümleri geliştirme konusunda yetkinliğe sahibim.",
+      "location": "İzmir, Türkiye",
+      "website": "https://github.com/omerserifyildiz",
+      "social": {
+        "github": "https://github.com/omerserifyildiz",
+        "linkedin": "https://www.linkedin.com/in/omerserifyildiz"
+      }
+    },
+    "experience": [
+      {
+        "company": "Bambi Yatak",
+        "position": "Yazılım Geliştirme Uzmanı",
+        "period": "Ağustos 2024 - Günümüz",
+        "description": "Kurumsal ERP süreçleri, fabrika otomasyon modülleri ve React tabanlı arayüzlerin geliştirilmesi."
+      },
+      {
+        "company": "Planet Yazılım",
+        "position": "Yazılım Proje & Destek Uzmanı",
+        "period": "Aralık 2021 - Ağustos 2024",
+        "description": "Yazılım projelerinin planlanması, müşteri gereksinimlerinin analizi ve geliştirme süreçlerinin yürütülmesi."
+      },
+      {
+        "company": "Metot Bağımsız Denetim",
+        "position": "İdari Operasyonlar Uzmanı",
+        "period": "Mart 2019 - Kasım 2021",
+        "description": "Kurumsal süreçlerin takibi ve idari operasyonların yürütülmesi."
+      }
+    ],
+    "education": [
+      {
+        "institution": "İzmir Kâtip Çelebi Üniversitesi",
+        "area": "Yazılım Mühendisliği (Yüksek Lisans)",
+        "period": "2024 - Devam Ediyor"
+      },
+      {
+        "institution": "Anadolu Üniversitesi",
+        "area": "Bilgisayar Programcılığı",
+        "period": "2022 - Devam Ediyor"
+      },
+      {
+        "institution": "İzmir Demokrasi Üniversitesi",
+        "area": "İşletme (Lisans)",
+        "period": "2017 - 2021"
+      },
+      {
+        "institution": "Anadolu Üniversitesi",
+        "area": "Web Tasarımı ve Kodlama (Önlisans)",
+        "period": "2017 - 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Turkquality Personel Geri Bildirim Sistemi",
+        "tech": "React, MS SQL, Dapper",
+        "description": "Firma personelleri için Geri Bildirim Giriş Ekranı, yönetim tarafı için ise Süreç Takip ve Raporlama Paneli olmak üzere iki ayrı modülü uçtan uca geliştirdim.Backend tarafında MS SQL ve Dapper altyapısını kurgularken, frontend arayüzlerini React ile mobil uyumlu olarak hayata geçirdim."
+      }
+    ],
+    "certificates": [
+      "Developing SQL Databases (Microsoft)",
+      "C# ile Algoritma ve Programlama (Turkcell)",
+      "Logo Netsis 3 Enterprise & Bordro Uzmanlığı",
+      "Service Management Administrator"
+    ],
+    "skills": [
+      "ASP.NET Core MVC", "C#", "MS SQL Server", "Dapper", "React.js", "ASP.NET Web API", "JavaScript", "HTML/CSS"
+    ],
+    "interface": {
+      "about": "Hakkımda",
+      "experience": "Deneyim",
+      "education": "Eğitim",
+      "projects": "Projeler",
+      "certificates": "Sertifikalar",
+      "stack": "Yetenekler",
+      "version": "SÜRÜM"
+    }
+  },
+  "en": {
+    "basics": {
+      "name": "Ömer Şerif Yıldız",
+      "label": "Full Stack Software Developer",
+      "email": "omerserifyildiz@outlook.com.tr",
+      "summary": "Full Stack Software Specialist blending practical field experience with contemporary software architectures. Expert in building robust, high-performance backends using ASP.NET Core MVC, Dapper, and MSSQL, while crafting intuitive, scalable, and mobile-first React interfaces. Proven track record in delivering end-to-end solutions that drive business value, including complex ERP integrations, custom business modules, and corporate reporting systems.",
+      "location": "Izmir, Turkey",
+      "website": "https://github.com/omerserifyildiz",
+      "social": {
+        "github": "https://github.com/omerserifyildiz",
+        "linkedin": "https://www.linkedin.com/in/omerserifyildiz"
+      }
+    },
+    "experience": [
+      {
+        "company": "Bambi Yatak",
+        "position": "Full Stack Software Developer",
+        "period": "August 2024 - Present",
+        "description": "Development of corporate ERP processes, factory automation modules, and React-based interfaces."
+      },
+      {
+        "company": "Planet Yazılım",
+        "position": "Software Project & Support Specialist",
+        "period": "December 2021 - August 2024",
+        "description": "Planned software projects, analyzed client requirements, and executed development processes."
+      },
+      {
+        "company": "Metot Bağımsız Denetim",
+        "position": "Administrative Operations Specialist",
+        "period": "March 2019 - November 2021",
+        "description": "Tracking corporate processes and executing administrative operations."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Izmir Katip Celebi University",
+        "area": "Software Engineering (Master's Degree)",
+        "period": "2024 - Present"
+      },
+      {
+        "institution": "Anadolu University",
+        "area": "Computer Programming",
+        "period": "2022 - Present"
+      },
+      {
+        "institution": "Izmir Demokrasi University",
+        "area": "Business Administration (Bachelor's Degree)",
+        "period": "2017 - 2021"
+      },
+      {
+        "institution": "Anadolu University",
+        "area": "Web Design and Coding (Associate Degree)",
+        "period": "2017 - 2019"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Turkquality Staff Feedback System",
+        "tech": "React, MS SQL, Dapper",
+        "description": "I spearheaded the full-stack development of a dual-module system featuring a feedback portal for employees and a reporting dashboard for management. I built the backend on MS SQL and Dapper architecture, and delivered fully mobile-responsive user interfaces using React."
+      }
+    ],
+    "certificates": [
+      "Developing SQL Databases (Microsoft)",
+      "Algorithm and Programming with C# (Turkcell)",
+      "Logo Netsis 3 Enterprise & Payroll Expertise",
+      "Service Management Administrator"
+    ],
+    "skills": [
+      ".NET MVC", "C#", "MS SQL Server", "Dapper", "React.js", "ASP.NET Web API", "JavaScript", "HTML/CSS"
+    ],
+    "interface": {
+      "about": "About",
+      "experience": "Experience",
+      "education": "Education",
+      "projects": "Projects",
+      "certificates": "Certificates",
+      "stack": "Stack",
+      "version": "VERSION"
+    }
+  }
+}
