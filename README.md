@@ -35,7 +35,3 @@ dev-portfolio/
 ├── public/              # Static assets (images, icons)
 ├── lib/                 # Utility functions
 └── next.config.js       # Static export configuration
-
-This project is deployed using GitHub Actions. The workflow automatically builds the Next.js application and pushes the static output to the gh-pages branch.
-
-Developed by Ömer Şerif Yıldız
