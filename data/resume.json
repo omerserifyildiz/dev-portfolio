@@ -58,7 +58,7 @@
       {
         "name": "Turkquality Personel Geri Bildirim Sistemi",
         "tech": "React, MS SQL, Dapper",
-        "description": "Firma personelleri için Geri Bildirim Giriş Ekranı, yönetim tarafı için ise Süreç Takip ve Raporlama Paneli olmak üzere iki ayrı modülü uçtan uca geliştirdim.Backend tarafında MS SQL ve Dapper altyapısını kurgularken, frontend arayüzlerini React ile mobil uyumlu olarak hayata geçirdim."
+        "description": "Firma personelleri için Geri Bildirim Giriş Ekranı, yönetim tarafı için ise Süreç Takip ve Raporlama Paneli olmak üzere iki ayrı modülü uçtan uca geliştirdim. Backend tarafında MS SQL ve Dapper altyapısını kurgularken, frontend arayüzlerini React ile mobil uyumlu olarak hayata geçirdim."
       }
     ],
     "certificates": [
@@ -68,7 +68,7 @@
       "Service Management Administrator"
     ],
     "skills": [
-      "ASP.NET Core MVC", "C#", "MS SQL Server", "Dapper", "React.js", "ASP.NET Web API", "JavaScript", "HTML/CSS"
+      "Next.js 14", "React.js", "ASP.NET Core MVC", "C#", "MS SQL Server", "Dapper", "JavaScript", "HTML/CSS"
     ],
     "interface": {
       "about": "Hakkımda",
@@ -149,7 +149,7 @@
       "Service Management Administrator"
     ],
     "skills": [
-      ".NET MVC", "C#", "MS SQL Server", "Dapper", "React.js", "ASP.NET Web API", "JavaScript", "HTML/CSS"
+      "Next.js 14", "React.js", "ASP.NET Core MVC", "C#", "MS SQL Server", "Dapper", "JavaScript", "HTML/CSS"
     ],
     "interface": {
       "about": "About",
