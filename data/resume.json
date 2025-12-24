@@ -68,7 +68,7 @@
       "Service Management Administrator"
     ],
     "skills": [
-      "Next.js 14", "React.js", "ASP.NET Core MVC", "C#", "MS SQL Server", "Dapper", "JavaScript", "HTML/CSS"
+      "ASP.NET Core MVC", "MS SQL Server", "Next.js 14", "React.js", "JavaScript", "HTML/CSS", "Dapper", "C#"
     ],
     "interface": {
       "about": "Hakkımda",
@@ -149,7 +149,7 @@
       "Service Management Administrator"
     ],
     "skills": [
-      "Next.js 14", "React.js", "ASP.NET Core MVC", "C#", "MS SQL Server", "Dapper", "JavaScript", "HTML/CSS"
+      "ASP.NET Core MVC", "MS SQL Server", "Next.js 14", "React.js", "JavaScript", "HTML/CSS", "Dapper", "C#"
     ],
     "interface": {
       "about": "About",
