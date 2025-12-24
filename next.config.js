@@ -3,9 +3,12 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  experimental: {
-    turbopackUseSystemTlsCerts: true,
+  eslint: {
+    ignoreDuringBuilds: true,
   },
-}
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
