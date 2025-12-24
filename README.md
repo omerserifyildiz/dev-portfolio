@@ -1,40 +1,41 @@
 # Dev Portfolio
 
-Modern, responsive and data-driven personal portfolio website built with **Next.js 14 (App Router)**. This project demonstrates a full-stack approach by serving content through an internal API and managing state dynamically.
+A modern, high-performance personal portfolio website built with **Next.js 14 (App Router)**.
 
-## Overview
-
-This repository contains the source code for my personal digital resume and portfolio. Unlike static HTML templates, this application acts as a dynamic client that consumes data from a structured JSON source, simulating a real-world CMS integration pattern.
+This project demonstrates a professional frontend architecture by utilizing **Static Site Generation (SSG)**. Unlike traditional dynamic sites, this application is pre-rendered into static HTML for maximum speed, security, and compatibility with serverless environments like GitHub Pages.
 
 ## Key Features
 
-* **Next.js 14 App Router:** Utilizes the latest routing architecture for optimized performance and SEO.
-* **Data-Driven UI:** All content (experience, education, skills) is fetched from a localized JSON API (`data/resume.json`), ensuring separation of concerns between content and presentation.
-* **Internal API Routes:** Includes a custom Next.js API endpoint to serve resume data.
-* **Responsive Design:** Fully responsive layout built with Custom CSS / CSS Modules (adaptable to mobile, tablet, and desktop).
-* **Theme Support:** Includes Dark/Light mode toggling capabilities.
+* **Next.js 14 App Router:** Built on the latest React framework standards.
+* **Static Export Architecture:** Configured with `output: 'export'` to run serverlessly on GitHub Pages.
+* **Data-Driven UI:** Content (experience, education, skills) is decoupled from the UI and managed via a structured JSON source (`data/resume.json`), allowing for easy updates without touching the component logic.
+* **Responsive Design:** Fully responsive layout built with Custom CSS / CSS Modules (Mobile, Tablet, Desktop).
+* **Performance:** Zero-latency page loads due to pre-rendered static assets.
 
 ## Tech Stack
 
-* **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
-* **Runtime:** Node.js (Server-Side Logic & API Routes)
-* **Language:** JavaScript (ES6+) / React
+* **Framework:** [Next.js 14](https://nextjs.org/)
+* **Core:** React.js / JavaScript (ES6+)
 * **Styling:** CSS Modules / Custom CSS
-* **Data Source:** Local JSON Served via Internal API
-* **Fonts:** Inter Variable (Optimized with `next/font`)
+* **Data Management:** Local JSON (Client-side Import)
+* **Deployment:** GitHub Actions & GitHub Pages
 
 ## Project Structure
 
-A high-level overview of the project's architecture:
+A high-level overview of the project's static architecture:
 
 ```text
 dev-portfolio/
 ├── app/
-│   ├── api/resume/      # Internal API route for data serving
-│   ├── components/      # Reusable UI components (Navbar, Footer, etc.)
+│   ├── components/      # Reusable UI components (Navbar, ResumeCard, etc.)
 │   ├── layout.js        # Main layout wrapper
 │   └── page.js          # Homepage entry point
 ├── data/
-│   └── resume.json      # Centralized data source for the portfolio
+│   └── resume.json      # Centralized data source (acts as a local CMS)
 ├── public/              # Static assets (images, icons)
-└── lib/                 # Utility functions and API fetchers
+├── lib/                 # Utility functions
+└── next.config.js       # Static export configuration
+
+This project is deployed using GitHub Actions. The workflow automatically builds the Next.js application and pushes the static output to the gh-pages branch.
+
+Developed by Ömer Şerif Yıldız
